@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Vendas e Estoque",
+  "description": "Sistema completo de gestão de estoque, vendas e relatórios em dashboard com suporte a Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
